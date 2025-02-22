@@ -79,7 +79,22 @@ Enhanced user experience with:
 
 ---
 
-### 🚀 **Connect & Explore**
-📌 [GitHub Repository](#) | 📌 [Power BI Report](#)  
+### 📸 **Screenshots** ## 
 
----
+### **1️⃣ Overview of Sales Report**
+![Sales Report Overview](Screenshot_1_Overview_Sales_Report.png)
+
+### **2️⃣ Orders Review**
+![Orders Review](Screenshot_2_Orders_Review_Sales_Report.png)
+
+### **3️⃣ Profit by State**
+![Profit by State](Screenshot_3_Profit_by_State_Sales_Report.png)
+
+### **4️⃣ Profit Margin vs Target**
+![Profit Margin vs Target](Screenshot_4_Profit_Margin_vs_Target_Sales_Report.png)
+
+### **5️⃣ Losses Analysis**
+![Losses Analysis](Screenshot_5_Losses_Sales_Report.png)
+
+### **6️⃣ Profit Ratio by Sales Representative**
+![Profit Ratio by Person](Screenshot_6_Profit_Ratio_by_Person_Sales_Report.png)
